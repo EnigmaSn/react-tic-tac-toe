@@ -1,2 +1,2 @@
 # react-tic-tac-toe
-Крестики-нолики на React
+Крестики-нолики на React JS
